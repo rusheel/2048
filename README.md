@@ -1,5 +1,6 @@
 # Heroes Vs. Villains 2048
 A Heroes Vs. Villains version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
+
 Play 2048 with your favorite heroes and villains!
 
 ## License
